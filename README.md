@@ -1,15 +1,15 @@
 # FUTURE_DS_02
 
-# 📊 SaaS Customer Churn Analysis using Power BI
+#  SaaS Customer Churn Analysis using Power BI
 
-## 📌 Project Overview
+##  Project Overview
 Customer churn is a critical challenge for SaaS and subscription-based businesses. This project focuses on analyzing customer, subscription, engagement, support, and churn data to understand **why customers leave**, **which segments are most at risk**, and **what actions can improve retention**.
 
 The analysis mirrors real-world work performed by data analysts in **product, growth, and retention teams**, using Power BI to convert raw data into actionable business insights.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Measure customer churn and retention performance
 - Identify customer segments with higher churn risk
 - Analyze product engagement and support experience
@@ -18,7 +18,7 @@ The analysis mirrors real-world work performed by data analysts in **product, gr
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 The project uses multiple interconnected datasets:
 
 - **ravenstack_accounts**  
@@ -38,7 +38,7 @@ The project uses multiple interconnected datasets:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **Power BI Desktop**
 - **Power Query** (data cleaning & transformation)
 - **DAX (Data Analysis Expressions)**
@@ -46,7 +46,7 @@ The project uses multiple interconnected datasets:
 
 ---
 
-## 🔧 Data Preparation & Modeling
+##  Data Preparation & Modeling
 1. Imported all datasets into Power BI using Power Query  
 2. Cleaned and transformed data by:
    - Correcting data types
@@ -59,7 +59,7 @@ The project uses multiple interconnected datasets:
 
 ---
 
-## 📐 Key Metrics & KPIs
+##  Key Metrics & KPIs
 The following KPIs were created using DAX:
 
 - **Total Customers**
@@ -72,7 +72,7 @@ These KPIs provide a high-level overview of churn and retention performance.
 
 ---
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 ### 1️⃣ Churn by Subscription Plan
 - Compared churned customers across plan tiers
@@ -100,7 +100,7 @@ These KPIs provide a high-level overview of churn and retention performance.
 
 ---
 
-## 📊 Dashboard Design
+##  Dashboard Design
 A single-page Power BI dashboard was designed with:
 - **Top KPI cards** for executive-level insights
 - **Churn driver visuals** (plan tier, engagement, support)
@@ -110,7 +110,7 @@ The dashboard follows a clean and structured layout suitable for business stakeh
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 - Overall churn rate is **22%**, indicating a significant retention opportunity
 - Lower-tier plans experience higher churn
 - Customers with low feature usage are more likely to churn
@@ -119,7 +119,7 @@ The dashboard follows a clean and structured layout suitable for business stakeh
 
 ---
 
-## 📈 Business Recommendations
+##  Business Recommendations
 - Improve onboarding and feature adoption for new users
 - Proactively engage low-usage customers
 - Enhance support response and resolution times
@@ -128,11 +128,11 @@ The dashboard follows a clean and structured layout suitable for business stakeh
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 This project demonstrates an end-to-end **SaaS churn analysis workflow**, covering data preparation, modeling, KPI creation, behavioral analysis, and business recommendations. It reflects real-world analytics practices and showcases practical Power BI and DAX skills.
 
 ---
 
-## 👤 Author
+##  Author
 **Mohan Kumar**  
 Data Analytics | Power BI | SaaS Analytics
